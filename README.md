@@ -30,7 +30,7 @@
 * <a href="https://scriptsm.tebex.io/package/5811299">[Standalone] Vehicle Hotkey Commands V2</a>
 
 <p align="center">
-<a href="https://discord.gg/hMasc4CnSY">CFX.RE Topic</a>
+<a href="https://forum.cfx.re/t/free-scriptsm-watches-watch-the-time-on-your-hand/5236090">CFX.RE Topic</a>
 </p>
 
 
